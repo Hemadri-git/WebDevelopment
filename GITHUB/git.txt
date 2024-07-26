@@ -1,0 +1,10 @@
+git init
+git add . //for all files or folder name
+git commit -m  "message"
+git config --global user.email "emailid"
+git config --global user.name "user.name"
+repeat 2&3
+git remote add origin "link"
+git push -u origin main/master
+
+FRONTEND MENTOR
