@@ -1,0 +1,29 @@
+
+operators are used to perform operation bw operands 
+a+b is an addition operation, a and b are operands and + is operator.
+there are diff types of operators;
+1. arthametic operator: used to perform arthametic expression
+eg: 
++,-,*,/,%
+
+2. relation operatos: used to comparison
+eg: ==,===,<,>,<=,>=,!=,!==
+
+3. assignment operator: used for assigning the values 
+eg: +=, -=, *=, /=, %=, =
+
+4. logical operator:  are used to combined conditional logics
+eg: ||, &&, !
+
+5.incr and decr operator: are operators (++, -- which are used by 1 or to decreace it by one)
+eg: ++, -- have two variations pre and post
+
+6. unary + : is used to convert any value into number value.
+
+7.ternary operator/consitional operator:
+let a= (10>23)? "abc" : "xyz";
+// let isHeGood = false
+let isHeokay = true
+
+8. nullish coelsion operator:  used to get value which are not undefined.
+eg: let p =q ?? r; 

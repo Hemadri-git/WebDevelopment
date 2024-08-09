@@ -1,0 +1,17 @@
+var is function scope variable
+let and const are block scope variable
+
+var can access values before declaration
+
+what is js?
+what are difference bw let, const, var?
+what are developer tools? how to use them?
+what is hosting? what is execution content? what is call stack?
+
+//leetcode --> 30 days javascript 
+
+//dom
+dom selection
+dom maniplation 
+events
+dom creation

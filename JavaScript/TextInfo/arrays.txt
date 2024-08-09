@@ -1,0 +1,21 @@
+arrays are used to store a set of items/elements
+let arr = [1,2,3,4,5,"prasad"]
+0 based indexing (0 to (n-1))
+arrays are declared in using square brackets and it stores the data using indexs. index starts from  zero.
+
+arrays have some default methods
+--> arr.length  -- number of elements in the arrays
+--> arr.indexOf(ele)-- find the index of first occurence of ele in arr
+--> arr.lastindexOf(ele)-- find the index of last occurence of ele in arr
+-- > arr.push(val) -- it adds the  value to the array at the end of the array. it can add and multiple values at a time
+--> arr.pop()-- delete last element of the arrays
+--> arr.unshift(ele)-- add ele to array at the starting of the array 
+--> arr.shift(ele)--removes the first element of the array
+--> arr.splice(s,dc,ins)-- it takes three arguments, s is the starting index value, dc is delete count , ins is the va;ue to insert 
+--> arr.reverse()-- reverse the given array
+--> arr.sort()-- sort the array in the alphabetcal order including numbers 
+--> arr.concat(arr1)-- add arr1 to arr
+--> arr.forEach(callback)--  runs the callback for each and every element of arr.  callback accepts first parameter as element and second as index
+--> arr.map(callback)-- runs the callback for each and every element of the arr similar to forEach but it can return any values
+--> arr.filter(callback)--  return only the values where callback return true
+--> arr.reduce(callback, initialvalue)- callback takes previous and current valus and update previous everytime

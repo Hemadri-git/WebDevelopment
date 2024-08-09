@@ -1,0 +1,35 @@
+js is dynamically typed language. it means variable wont have fixed/static datatypes
+
+datatypes are two types
+1. primitive -> consoders values 
+   there are 5 popular primitive datatypes are:
+   1.number ->
+               Any numarical values are considersas number. sometimes mathamatical operation on number may result NaN(not a number)
+               we can perform some mathamatical operations on number using math method and numbers also have default methods like toFixed, toprecision, toString
+   2.string -> 
+               b. strings: string are used to store charector/ letters/symbols any alphanumrical values
+               string can be represted by ' ' or " " or ` `
+               "" or '' have no difference in js
+
+   3.boolean
+   4.null
+   5.undefined
+
+2. non-primitive-> data types considers address. they also called reference data types
+popular non=primitive datatypes are:
+arrays
+objects
+functions
+ 
+ the backticks also called
+
+ string methods
+ strings have some default methods like let str= "javascript is easy"
+
+ what is difference bw undefined and null?
+ d.null:null represents definete an accident absence of value
+ defined you may accept value in future
+
+ //boolean
+//holds true for false they are used for conditional logic
+//true--> 1 || false-->0

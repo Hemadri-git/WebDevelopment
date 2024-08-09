@@ -1,0 +1,2 @@
+function is used to perform spefic task
+your wholw program will be dived intlo certain logical parts and each part is called is function
