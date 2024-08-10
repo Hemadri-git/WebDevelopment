@@ -1,8 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "WEB3",
-			"path": "."
-		}
-	]
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
