@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(white,tomato);
+    background: linear-gradient(rgb(223, 200, 200),rgb(134, 141, 212));
 }
 #counter{
     height: 50vh;
@@ -18,7 +18,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: white;
-    box-shadow: 5px 5px black;
+    box-shadow: 5px 5px rgba(53, 219, 210, 0.423);
     border-radius: 20px;
     font-size: 48px;
 }
@@ -26,6 +26,6 @@ button{
     height: 20px;
     width: 100px;
     border-radius: 20px;
-    background-color: black;
-    color: white;
+    background-color: rgb(212, 36, 36);
+    color: rgb(0, 0, 0);
 }

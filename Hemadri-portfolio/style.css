@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    background-color: rgb(0, 20, 50);
+    color: rgb(255, 255, 255);
+    font-size: large;
+    padding: 30px;
+    position: sticky;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+}
+nav ul li a:hover{
+  
+  color: rgb(187, 58, 67);
+}
+span{
+    color: red;
+}
+.left{
+    font-size: 1.8rem;
+}
+
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 0px;
+    position: sticky;
+}
+
+.firstSection > div{
+    width: 30%;
+}
+
+.leftSection{
+    font-size: 2rem;
+}
+
+.About{
+    padding: 100px;
+    font-size: large;
+}
+
+.About h1{
+    text-align: center;
+    color: rgb(255, 0, 13);
+    padding: 40px;
+    font-size: 2rem;
+}
+
+.secondSection{
+    padding: 100px;
+    font-size: large;
+}
+
+.projectHeading{
+    text-align: center;
+    color: red;
+}
+
+.thirdSection{
+    text-align: center;
+    padding: 50px;
+    font-size: large;
+}
+
+.thirdSection h1{
+    color: red;
+    padding: 40px;
+}
+

@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color: antiquewhite;
 }
 .navbar{
@@ -61,33 +61,7 @@ h1{
     
 }
 
-.ch-1{
-    color: aqua;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
-    word-spacing: 3px;
-    
-}
-
-.COURSES{
-    padding: 50px;
-    text-align: center;
-}
-
-.courses-sub-part{
-    
-    display: flex;
-    flex-direction: row;
-   
-}
-.courses-card{
- 
-    padding: 30px;
-    margin: 20px;
-    width: 400px;
-    
-}
-
+.s
 .about{
     text-align: center;
     padding: 50px;
@@ -104,8 +78,17 @@ h1{
 }
 
 .Heading{
-    color: aqua;
+    color: hwb(251 31% 26%);
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 50px;
 }
+
+span{
+    color: blueviolet;
+    
+}
+#logo{
+    padding: 40px;
+}
+
