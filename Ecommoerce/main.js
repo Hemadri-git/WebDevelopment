@@ -3,9 +3,9 @@ const fetchData = async () =>
 {
     try
     {
-        fetch('https://fakestoreapi.com/products')
-        .then(res=>res.json())
-        .then(json=>console.log(json))
+        const res = await fetch('https://dummyjson.com/products');
+        const data = await res.json();
+        displayData(data)
     }
     catch (err)
     {
