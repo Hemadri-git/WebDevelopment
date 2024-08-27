@@ -1,0 +1,43 @@
+body{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+   background-color: hsl(0, 0%, 100%);
+   display: flex;
+   justify-content: center;
+  
+   padding-top: 7%;
+}
+
+form{
+    border: 2px solid black;
+    padding: 100px;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 15px 15px 25px;
+}
+
+h1{
+    color: rgb(43, 80, 203);
+}
+label{
+    font-size: 1rem;
+}
+button{
+    margin-top: 15px;
+    background-color: hsl(0, 100%, 60%);
+    color: white;
+    font-size: 1.5em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(0, 100%, 50%);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}
