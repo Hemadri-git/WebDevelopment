@@ -1,0 +1,3 @@
+This repository consists of the code samples, WEB Development projects, and notes for the HTML, CSS, JavaScript.
+
+Give it a like if you like my repo...
